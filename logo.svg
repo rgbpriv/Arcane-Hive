@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100%"
+   viewBox="0 0 680 520"
+   role="img"
+   style=""
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="Arcane Hive Logo v3.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="4.6653846"
+     inkscape:cx="340.05771"
+     inkscape:cy="115.21022"
+     inkscape:window-width="2560"
+     inkscape:window-height="1494"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <title
+     style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"
+     id="title1">Arcane Hive logo version 3</title>
+  <desc
+     style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"
+     id="desc1">Minimal Arcane Hive logo. A solid dark hexagon containing a smaller honeycomb cluster of seven hexagons — one central orange cell surrounded by six outline cells. Industrial wordmark below.</desc>
+  <defs
+     id="defs4">
+    <mask
+       id="imagine-text-gaps-b9xw52"
+       maskUnits="userSpaceOnUse">
+      <rect
+         x="0"
+         y="0"
+         width="680"
+         height="520"
+         fill="white"
+         id="rect1" />
+      <rect
+         x="156.58334350585938"
+         y="275.3333435058594"
+         width="366.16668701171875"
+         height="94.66667175292969"
+         fill="black"
+         rx="2"
+         id="rect2" />
+      <rect
+         x="228.890625"
+         y="351.3333435058594"
+         width="222.21875"
+         height="94.66667175292969"
+         fill="black"
+         rx="2"
+         id="rect3" />
+      <rect
+         x="169.28646850585938"
+         y="456"
+         width="341.4270935058594"
+         height="16"
+         fill="black"
+         rx="2"
+         id="rect4" />
+    </mask>
+  </defs>
+  <line
+     x1="432.33923"
+     y1="81.362137"
+     x2="462.33923"
+     y2="81.362137"
+     style="color:#ffffff;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;opacity:0.4;fill:none;stroke:#f97316;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter"
+     id="line21" />
+  <line
+     x1="432.30121"
+     y1="184.11119"
+     x2="467.30121"
+     y2="184.11119"
+     style="color:#ffffff;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;fill:none;stroke:#f97316;stroke-width:1.5px;stroke-linecap:round;stroke-linejoin:miter"
+     id="line23" />
+  <line
+     x1="467.30121"
+     y1="184.11119"
+     x2="489.30121"
+     y2="206.11119"
+     style="color:#ffffff;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;fill:none;stroke:#f97316;stroke-width:1.5px;stroke-linecap:round;stroke-linejoin:miter"
+     id="line24" />
+  <circle
+     cx="467.30121"
+     cy="184.11119"
+     r="3.5"
+     style="color:#ffffff;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;fill:#f97316;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter"
+     id="circle24" />
+  <line
+     x1="249.41879"
+     y1="184.37675"
+     x2="221.41879"
+     y2="184.37675"
+     style="color:#ffffff;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;opacity:0.4;fill:none;stroke:#f97316;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter"
+     id="line18" />
+  <line
+     x1="221.41879"
+     y1="184.37675"
+     x2="201.41879"
+     y2="204.37675"
+     style="color:#ffffff;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;opacity:0.4;fill:none;stroke:#f97316;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter"
+     id="line19" />
+  <circle
+     cx="221.41879"
+     cy="184.37675"
+     r="3"
+     style="color:#ffffff;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;opacity:0.4;fill:#f97316;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter"
+     id="circle19" />
+  <line
+     x1="251.53888"
+     y1="83.149803"
+     x2="231.53889"
+     y2="73.149803"
+     style="color:#ffffff;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;fill:none;stroke:#f97316;stroke-width:1.5px;stroke-linecap:round;stroke-linejoin:miter"
+     id="line25" />
+  <line
+     x1="231.53889"
+     y1="73.149803"
+     x2="199.53889"
+     y2="73.149803"
+     style="color:#ffffff;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;fill:none;stroke:#f97316;stroke-width:1.5px;stroke-linecap:round;stroke-linejoin:miter"
+     id="line26" />
+  <circle
+     cx="231.53889"
+     cy="73.149803"
+     r="3.5"
+     style="color:#ffffff;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;fill:#f97316;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter"
+     id="circle26" />
+  <line
+     x1="199.53889"
+     y1="73.149803"
+     x2="181.53889"
+     y2="55.149799"
+     style="color:#ffffff;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;opacity:0.4;fill:none;stroke:#f97316;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter"
+     id="line27" />
+  <line
+     x1="462.33923"
+     y1="81.362137"
+     x2="478.33923"
+     y2="65.362137"
+     style="color:#ffffff;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;opacity:0.4;fill:none;stroke:#f97316;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter"
+     id="line22" />
+  <circle
+     cx="462.33923"
+     cy="81.362137"
+     r="3"
+     style="color:#ffffff;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;opacity:0.4;fill:#f97316;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter"
+     id="circle22" />
+  <!-- ── Outer hexagon body ── -->
+  <polygon
+     points="432,86 432,190 340,242 248,190 248,86 340,34 "
+     fill="#2B2D42"
+     style="color:#ffffff;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;opacity:1;fill:#2b2d42;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter"
+     id="polygon4"
+     transform="translate(0.3215169,-5.1442704)" />
+  <!-- ── Seven-cell honeycomb cluster ──
+       Flat-top hexagons, cell radius ~26px
+       Layout: 1 center + 6 surrounding
+  -->
+  <!-- Cell size: flat-top hex, half-width W=24, half-height H=20.8 -->
+  <!-- Center cell — solid orange, the arcane core -->
+  <polygon
+     points="316,156 316,128 340,114 364,128 364,156 340,170 "
+     fill="#F97316"
+     style="color:#ffffff;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;opacity:1;fill:#f97316;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter"
+     id="polygon5"
+     transform="translate(1.0349473,-7.2490926)" />
+  <!-- Negative inner hex to create ring effect -->
+  <polygon
+     points="324,153 324,131 340,122 356,131 356,153 340,162 "
+     fill="#2B2D42"
+     style="color:#ffffff;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;opacity:1;fill:#2b2d42;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter"
+     id="polygon6"
+     transform="translate(1.0349473,-7.2490926)" />
+  <!-- Centre dot -->
+  <circle
+     cx="341.03494"
+     cy="134.7509"
+     r="6"
+     fill="#F97316"
+     style="color:#ffffff;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;opacity:1;fill:#f97316;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter"
+     id="circle6" />
+  <!-- Top cell -->
+  <polygon
+     points="340,70 364,84 364,112 340,126 316,112 316,84 "
+     fill="none"
+     stroke="#F97316"
+     stroke-width="1.8"
+     opacity="0.5"
+     style="color:#ffffff;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;opacity:0.5;fill:none;stroke:#f97316;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter"
+     id="polygon7"
+     transform="translate(1.5080287,-18.30438)" />
+  <!-- Top-right cell -->
+  <polygon
+     points="364,84 388,98 388,126 364,140 340,126 340,98 "
+     fill="none"
+     stroke="#F97316"
+     stroke-width="1.8"
+     opacity="0.5"
+     style="color:#ffffff;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;opacity:0.5;fill:none;stroke:#f97316;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter"
+     id="polygon8"
+     transform="translate(1.5080287,-18.30438)" />
+  <!-- Bottom-right cell -->
+  <polygon
+     points="340,170 364,156 388,170 388,198 364,212 340,198 "
+     fill="none"
+     stroke="#F97316"
+     stroke-width="1.8"
+     opacity="0.5"
+     style="color:#ffffff;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;opacity:0.5;fill:none;stroke:#f97316;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter"
+     id="polygon9"
+     transform="translate(1.1865118,-8.4616088)" />
+  <!-- Bottom cell -->
+  <polygon
+     points="316,184 340,170 364,184 364,212 340,226 316,212 "
+     fill="none"
+     stroke="#F97316"
+     stroke-width="1.8"
+     opacity="0.5"
+     style="color:#ffffff;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;opacity:0.5;fill:none;stroke:#f97316;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter"
+     id="polygon10"
+     transform="translate(1.1865118,-8.4616088)" />
+  <!-- Bottom-left cell -->
+  <polygon
+     points="292,170 316,156 340,170 340,198 316,212 292,198 "
+     fill="none"
+     stroke="#F97316"
+     stroke-width="1.8"
+     opacity="0.5"
+     style="color:#ffffff;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;opacity:0.5;fill:none;stroke:#f97316;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter"
+     id="polygon11"
+     transform="translate(1.1865118,-8.4616088)" />
+  <!-- Top-left cell -->
+  <polygon
+     points="316,84 340,98 340,126 316,140 292,126 292,98 "
+     fill="none"
+     stroke="#F97316"
+     stroke-width="1.8"
+     opacity="0.5"
+     style="color:#ffffff;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;opacity:0.5;fill:none;stroke:#f97316;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter"
+     id="polygon12"
+     transform="translate(1.5080287,-18.30438)" />
+  <!-- ── Wordmark ── -->
+  <line
+     x1="210"
+     y1="272"
+     x2="470"
+     y2="272"
+     stroke="#F97316"
+     stroke-width="2"
+     style="fill:rgb(0, 0, 0);stroke:rgb(249, 115, 22);color:rgb(255, 255, 255);stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"
+     id="line12" />
+  <text
+     x="340"
+     y="348"
+     text-anchor="middle"
+     style="fill:rgb(249, 115, 22);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Arial Black&quot;, &quot;Franklin Gothic Heavy&quot;, sans-serif;font-size:64px;font-weight:900;text-anchor:middle;dominant-baseline:auto"
+     id="text12">ARCANE</text>
+  <text
+     x="340"
+     y="424"
+     text-anchor="middle"
+     style="fill:rgb(191, 196, 214);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Arial Black&quot;, &quot;Franklin Gothic Heavy&quot;, sans-serif;font-size:64px;font-weight:900;text-anchor:middle;dominant-baseline:auto"
+     id="text13">HIVE</text>
+  <line
+     x1="210"
+     y1="440"
+     x2="470"
+     y2="440"
+     stroke="#2B2D42"
+     stroke-width="0.75"
+     opacity="0.4"
+     mask="url(#imagine-text-gaps-b9xw52)"
+     style="fill:rgb(0, 0, 0);stroke:rgb(43, 45, 66);color:rgb(255, 255, 255);stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.4;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"
+     id="line13" />
+  <text
+     x="340"
+     y="468"
+     text-anchor="middle"
+     style="fill:rgb(102, 102, 102);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Arial, sans-serif;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto"
+     id="text14">RELIABILITY · OPTIMIZATION · VALUE</text>
+  <circle
+     cx="489.70612"
+     cy="206.06142"
+     r="2.5"
+     style="color:#ffffff;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;opacity:0.4;fill:#f97316;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter"
+     id="circle25" />
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Arcane Hive logo version 3</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
